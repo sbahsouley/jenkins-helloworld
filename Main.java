@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, World! c'est la part de Mr sbah");
+        System.out.println("Hello, World c'est la part de Mr sbah!");
     }
 }
 
